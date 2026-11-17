@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2500000
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:1B:0F:6D&stream=394549&extension=m3u8
+http://192.142.25.161:80/live/play/ZVhscmNYcDNRVTlFWWpZdmIwOWpOREVyU0c0eVUzSnJXVFJoV25WNUt6STRUaTlDVld4VmNFc3dTVDA9/394549

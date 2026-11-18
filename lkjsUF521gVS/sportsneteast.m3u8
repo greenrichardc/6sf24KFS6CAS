@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:b6:66:9b&stream=902079&extension=m3u8
